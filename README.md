@@ -8,7 +8,7 @@ A modern and fully responsive personal portfolio website built using **HTML5**, 
 
 ## 📸 Screenshot
 
-![Screenshot]([https://user-images.githubusercontent.com/your-github-username/your-image.png](https://github.com/MUSAYAHEA-PRO/Responsive-Portfolio-Site/blob/main/Images/Screenshot%20(39).png))
+![Screenshot](https://github.com/MUSAYAHEA-PRO/Responsive-Portfolio-Site/blob/main/Images/Screenshot%20(39).png)
 
 ## 🛠️ Technologies Used
 
