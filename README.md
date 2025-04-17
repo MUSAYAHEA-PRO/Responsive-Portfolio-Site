@@ -4,7 +4,7 @@ A modern and fully responsive personal portfolio website built using **HTML5**, 
 
 ## 🔗 Live Demo
 
-👉 [Visit the Live Site]([https://musayahea.netlify.app](https://musayahea-pro.github.io/Responsive-Portfolio-Site/))
+👉 [Visit the Live Site](https://musayahea-pro.github.io/Responsive-Portfolio-Site/)
 
 ## 📸 Screenshot
 
